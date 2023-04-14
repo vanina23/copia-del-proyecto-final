@@ -1,0 +1,60 @@
+
+body{ 
+    background-color: rgb(252, 236, 244);
+}
+h2{ 
+    text-align: center;
+    text-size-adjust: 24;
+} 
+h3{ 
+    text-align: center;
+    font-size: 20px;
+    text-decoration-style: solid;
+
+} 
+h4{ 
+    text-align: center;
+    font: size 18px;
+} 
+ul li{ 
+    text-align: center;
+    font-size: 14;
+    list-style: none;
+} 
+
+
+ .verPrecio:hover{ 
+    background-color: darksalmon;
+    width: 600;
+    height: 600;
+ } 
+
+ .Galeria{ 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+   
+} 
+img{ 
+    padding: 20px;
+} 
+footer{ 
+    text-align: center;
+    font-size: 12px;
+} 
+button{
+    color: rgb(232, 180, 208);
+    size: 60px;
+    text-align: center;
+ }
+ .btn btn-primary{
+    color: rgb(239, 189, 239);
+ }
+ .centrarCard{ 
+text-align: center;
+ }
+
+label{ 
+    text-align: center;
+}
+
